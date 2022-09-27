@@ -2,14 +2,25 @@ Jondy Chen
 
 This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
-Flasky
-======
+**Activity 1**
 
-This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
+![](images/L2A1.png)
 
-The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
+**Activity 2**
 
-For Readers of the First Edition of the Book
---------------------------------------------
+![](images/L2A2.png)
 
-The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
+**Activity 3**
+
+![](images/L2A3.png)
+
+**Activity 4**
+
+![](images/L2A4P2.png)
+
+![](images/L2A4P3.png)
+
+![](images/L2A4P4.png)
+
+![](images/L2A4P5.png)
+
