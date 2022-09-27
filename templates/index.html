@@ -6,7 +6,9 @@
 {% block page_content %}
 <div class="page-header">
   <h1>Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}!</h1>
-  <h1>{% if form_submitted %}{% if valid_email %}Your UofT email is {{ email }}{% else %}Please use your UofT email.{% endif %}{% endif %}</h1>
+  {% if form_submitted %}
+  <h1>{% if valid_email %}Your UofT email is {{ email }}{% else %}Please use your UofT email.{% endif %}</h1>
+  {% endif %}
 </div>
 {{ wtf.quick_form(form) }}
 {% endblock %}
